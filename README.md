@@ -1,4 +1,4 @@
-# I-101-FinalProject
+# Farmer's Market Web App
 This is our README for the final project.
 Any colloberators should feel free to add any important information here. 
 
